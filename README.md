@@ -1,1 +1,1 @@
-My name is Dimitri, also known as nezutero. I’m a software engineer who loves tech, construct high-performance projects, delve into the intricacies of memory, and ultimately engineer remarkable software — and many other things.
+I value privacy and freedom. I’m drawn to the pursuit of living more deliberately.
