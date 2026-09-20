@@ -1,1 +1,1 @@
-Sometimes I write <u>[here](https://nezutero.dev/blog)</u>
+My work/repositories have been permanently moved to https://codeberg.org/nezutero
