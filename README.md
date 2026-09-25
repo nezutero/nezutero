@@ -1,4 +1,5 @@
 CS student interested in math, Linux, FOSS, philosophy, and literature.
+
 I use a ThinkPad running NixOS, and Google Pixel 8 running GrapheneOS.
 
 If something here has been useful to you, you’re welcome to support the work through any of the options below.
