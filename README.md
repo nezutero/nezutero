@@ -1,7 +1,5 @@
-CS student interested in math, Linux, FOSS, philosophy, and literature.
+I’m a computer science student, an extreme minimalist, a Linux and FOSS enthusiast, and a life student. I’m also interested in algorithms, mathematics, philosophy, reading, manga, and Japanese language and culture.
 
-I use a ThinkPad running NixOS, and Google Pixel 8 running GrapheneOS.
+Sometimes I write [here](https://nezutero.dev/blog).
 
-Sometimes I write [here](https://github.com/nezutero/thoughts).
-
-If something here has been useful to you, you’re welcome to support the work through any of the options listed [here](https://github.com/nezutero/thoughts/blob/main/support.md).
+If something here has been useful to you, you’re welcome to support the work through any of the options listed [here](https://nezutero.dev/support/).
